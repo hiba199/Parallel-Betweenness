@@ -90,4 +90,4 @@ def run_algorithm(numProcess):
 
 
 if __name__ == "__main__":
- run_algorithm(8)
+ run_algorithm(30)
